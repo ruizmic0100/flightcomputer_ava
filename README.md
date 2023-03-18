@@ -16,16 +16,16 @@ Insert gif or link to demo
 Clone the repository
 
 ```bash
-  git clone open-fc
+$>  git clone open-fc
 ```
 
 Use the build script
 ```bash
-  ./build_tools/build.sh
+$>  ./build_tools/build.sh
 ```
     
 ## Usage/Examples
 Run the program using the run scripts
 ```bash
-./build-tools/run.sh
+$> ./build-tools/run.sh
 ```
