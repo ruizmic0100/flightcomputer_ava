@@ -13,7 +13,7 @@ Insert gif or link to demo
 
 ## Installation/Building
 
-Clone the repository
+Clone the repository and make your own branch.
 
 ```bash
 $>  git clone open-fc
