@@ -30,6 +30,7 @@ if (CMAKE_C_COMPILER_ID STREQUAL "GNU")
 endif()
 
 # Hardware-specific examples in subdirectories:
+add_subdirectory(LSM6DSOX)
 # add_subdirectory(adc)
 # add_subdirectory(clocks)
 # add_subdirectory(cmake)

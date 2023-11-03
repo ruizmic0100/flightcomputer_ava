@@ -1,5 +1,7 @@
 add_executable(open_fc open_fc.cpp)
 
+target_include_directories(open_fc PUBLIC "MPU6050/" "LSM6DSOX")
+
 # pull in common dependencies
 target_link_libraries(open_fc pico_stdlib pico_multicore)
 
